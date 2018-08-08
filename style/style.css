@@ -1,0 +1,38 @@
+.container {
+    background-color: #fcfcfc;
+    justify-content: center;
+    align-items: center;
+}
+form a {
+    margin-left: 10px;
+}
+
+.center-div {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 400px;
+    height: 150px;
+    border-radius: 3px;
+    box-shadow: 3px 3px #f7f2f2e1;
+    border: 1px solid #f7f2f2e1;
+  }
+
+  
+.center-div a {
+    margin-left: 12%;
+    margin-top: 14%;
+    width: 300px;
+}
+
+img {
+    height: 100px;
+    width: 80px;
+}
+
+.buttons-div btn {
+    margin-left: 10px;
+}
