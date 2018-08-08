@@ -33,7 +33,7 @@ Usar padrão de código Orientado a Objeto
 ### Getting Started
 ```
 > git clone https://github.com/JFSene/teste-fe-mirium.git
-> cd ReduxSimpleStarter
+> cd teste-fe-mirium
 > npm install
 > npm start
 ```
